@@ -27,7 +27,7 @@ To access this project on your local files, you can clone it using these steps
 1. JavaScript
 1. Git
 ### Live Site
-View [live](https://github.com/EugeneAbongo/pizzaria.git)
+View [live](https://github.com/EugeneAbongo/pizzaria)
 ### Licence
 This project is under the  [MIT](license) license
 Abongo-Eugene/portfolio
